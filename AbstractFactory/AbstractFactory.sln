@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "..\Strategy\Str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigator", "..\Navigator\Navigator.csproj", "{9FA87BBC-E1A3-49B0-BF00-C41CBB8327D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "..\TemplateMethod\TemplateMethod.csproj", "{51BE0BA7-643F-43BA-B7C4-1033030209DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaircutTamplate", "..\HaircutTamplate\HaircutTamplate.csproj", "{BD6AD841-3C09-4105-839C-A3A9E7437B87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{9FA87BBC-E1A3-49B0-BF00-C41CBB8327D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FA87BBC-E1A3-49B0-BF00-C41CBB8327D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FA87BBC-E1A3-49B0-BF00-C41CBB8327D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51BE0BA7-643F-43BA-B7C4-1033030209DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BE0BA7-643F-43BA-B7C4-1033030209DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BE0BA7-643F-43BA-B7C4-1033030209DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BE0BA7-643F-43BA-B7C4-1033030209DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD6AD841-3C09-4105-839C-A3A9E7437B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6AD841-3C09-4105-839C-A3A9E7437B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6AD841-3C09-4105-839C-A3A9E7437B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6AD841-3C09-4105-839C-A3A9E7437B87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\practice4\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Admin\source\repos\practice4\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Admin\source\repos\practice4\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Admin\source\repos\practice4\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\practice4\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Admin\source\repos\practice4\TemplateMethod\obj\Debug\TemplateMethod.pdb

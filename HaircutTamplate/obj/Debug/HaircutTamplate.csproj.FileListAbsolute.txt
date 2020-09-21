@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\practice4\HaircutTamplate\bin\Debug\HaircutTamplate.exe.config
+C:\Users\Admin\source\repos\practice4\HaircutTamplate\bin\Debug\HaircutTamplate.exe
+C:\Users\Admin\source\repos\practice4\HaircutTamplate\bin\Debug\HaircutTamplate.pdb
+C:\Users\Admin\source\repos\practice4\HaircutTamplate\obj\Debug\HaircutTamplate.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\practice4\HaircutTamplate\obj\Debug\HaircutTamplate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\practice4\HaircutTamplate\obj\Debug\HaircutTamplate.exe
+C:\Users\Admin\source\repos\practice4\HaircutTamplate\obj\Debug\HaircutTamplate.pdb
