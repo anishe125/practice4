@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\practice4\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Admin\source\repos\practice4\Strategy\bin\Debug\Strategy.exe
+C:\Users\Admin\source\repos\practice4\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Admin\source\repos\practice4\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\practice4\Strategy\obj\Debug\Strategy.exe
+C:\Users\Admin\source\repos\practice4\Strategy\obj\Debug\Strategy.pdb

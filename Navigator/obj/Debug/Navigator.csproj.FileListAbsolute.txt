@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\practice4\Navigator\bin\Debug\Navigator.exe.config
+C:\Users\Admin\source\repos\practice4\Navigator\bin\Debug\Navigator.exe
+C:\Users\Admin\source\repos\practice4\Navigator\bin\Debug\Navigator.pdb
+C:\Users\Admin\source\repos\practice4\Navigator\obj\Debug\Navigator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\practice4\Navigator\obj\Debug\Navigator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\practice4\Navigator\obj\Debug\Navigator.exe
+C:\Users\Admin\source\repos\practice4\Navigator\obj\Debug\Navigator.pdb

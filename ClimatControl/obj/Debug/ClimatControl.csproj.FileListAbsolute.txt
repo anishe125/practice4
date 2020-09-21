@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ClimatControl\bin\Debug\ClimatControl.exe.config
+C:\Users\Admin\source\repos\ClimatControl\bin\Debug\ClimatControl.exe
+C:\Users\Admin\source\repos\ClimatControl\bin\Debug\ClimatControl.pdb
+C:\Users\Admin\source\repos\ClimatControl\obj\Debug\ClimatControl.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ClimatControl\obj\Debug\ClimatControl.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ClimatControl\obj\Debug\ClimatControl.exe
+C:\Users\Admin\source\repos\ClimatControl\obj\Debug\ClimatControl.pdb
